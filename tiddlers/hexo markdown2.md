@@ -69,41 +69,7 @@ print 'Hello World!
 
 例：这&nbsp;是&ensp;个&emsp;例子  
 
-文本居中引用
-{% cq %}  
-人生乃是一面镜子，
-从镜子里认识自己，
-我要称之为头等大事，
-也只是我们追求的目的！  
-{% endcq %}
 
-以上标记显示效果如下：
-
-注：如果想修改字号，可以如下面这样设置：  
-<font size="8">   
-{% cq %}  
-  人生乃是一面镜子，
-  从镜子里认识自己，
-  我要称之为头等大事，
-  也只是我们追求的目的！  
-{% endcq %}  
-</font>
-
-{% centerquote %}标签引用方式1{% endcenterquote %}
-
-{% cq %}标签引用方式2{% endcq %}
-
-
-通过 {% cq %}  
-人生乃是一面镜子，
-从镜子里认识自己，
-我要称之为头等大事，
-也只是我们追求的目的！  
-{% endcq %}可以为段落添加背景色，语法如下：
-
-{% note class %}
-文本内容 (支持行内标签)
-{% endnote %}
 
 <blockquote class="blockquote-center">HTML引用方式</blockquote>
 
