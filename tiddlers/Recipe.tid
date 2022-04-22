@@ -1,0 +1,10 @@
+created: 20211204022303164
+creator: teawlili
+modified: 20211204022317964
+modifier: teawlili
+tags: BlogPost
+title: Recipe
+tmap.id: 1107be5f-247b-4ed3-a50f-c6f33f5f3be6
+type: text/vnd.tiddlywiki
+
+<$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />

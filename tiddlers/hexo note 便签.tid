@@ -1,0 +1,65 @@
+created: 20220401080112987
+creator: teawlili
+modified: 20220401093126582
+modifier: teawlili
+tags: coding
+title: hexo note 便签
+tmap.id: 77c80f2c-0f77-4af0-b896-b8d4b55879f5
+type: text/vnd.tiddlywiki
+
+
+提示標籤
+{% note default %}
+default 提示
+{% endnote %}
+
+{% note primary %}
+primary 提示
+{% endnote %}
+
+{% note success %}
+success 提示
+{% endnote %}
+
+{% note info %}
+info 提示
+{% endnote %}
+
+{% note warning %}
+warning 提示
+{% endnote %}
+
+{% note danger %}
+danger 提示
+{% endnote %}
+
+頁籤功能
+{% tabs mytab,2 %} 將 tab 取名為 mytab，預設會選取第二個頁籤，使用 -1 會不選取
+<!-- tab -->
+### 頁籤一
+
+因沒有特別命名，所以此頁籤會用 `mytab` 加上流水號。
+<!-- endtab -->
+<!-- tab -->
+### 頁籤二
+
+開無痕進來會先看到我。
+<!-- endtab -->
+<!-- tab 這是頁籤三 -->
+### 頁籤三
+
+這裡有命名，會看到頁籤名不一樣。
+<!-- endtab -->
+<!-- tab -->
+### 頁籤四
+
+可以看到這裡的流水號是從 4 開始，應該是抓 array index 作為流水號。
+<!-- endtab -->
+<!-- tab 個人資料 @user -->
+### 頁籤五
+
+這裡有加 icon，有什麼 icon 可以來[這裡](https://fontawesome.com/icons)找。
+<!-- endtab -->
+{% endtabs %}
+
+

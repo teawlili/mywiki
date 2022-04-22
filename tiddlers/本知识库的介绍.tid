@@ -1,0 +1,18 @@
+created: 20211204012219372
+creator: teawlili
+modified: 20211206015948691
+modifier: teawlili
+tags: tiddlywiki
+title: 本知识库的介绍
+tmap.id: a659f4bd-c33c-4b03-bf02-4055a7e66a47
+type: text/vnd.tiddlywiki
+
+!! 内容
+
+这个知识库主要用于存放[[teawlili]]的一些分享及笔记。目前已有 <$count filter="[all[tiddlers]!is[system]!is[shadow]]"/> 条笔记（仅统计你有权限查看的）。
+
+主要关于[[人生经验]]、存储各种[[软件分享]]、挖[[家具设计]]的坑、思考[[烹饪]]。以及统合一切人生意义的[[意义之塔]]。
+
+以及一些[[加密了的内容|APrivateContent]]，包括我的[[个人 Todo 列表|Task]]、[[日记|日志]]等。
+
+

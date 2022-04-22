@@ -1,0 +1,10 @@
+created: 20211204022236686
+creator: teawlili
+modified: 20211204022249283
+modifier: teawlili
+tags: BlogPost
+title: ONEXOX
+tmap.id: 14e0c44c-08d1-4428-8327-1775cc1d72cd
+type: text/vnd.tiddlywiki
+
+<$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />

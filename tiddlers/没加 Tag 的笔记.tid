@@ -1,0 +1,16 @@
+created: 20211204020136088
+creator: teawlili
+modified: 20211204022124590
+modifier: teawlili
+tags: tiddlywiki
+title: 没加 Tag 的笔记
+tmap.id: a174b2f8-15a1-47d3-bce2-ce75c0223433
+type: text/vnd.tiddlywiki
+
+笔记不加 Tag 可能会导致这个笔记以后再也不会被找到。
+
+<$list filter="[untagged[]!is[system]] +[sort[title]]">
+{{||$:/core/ui/TagTemplate}}
+</$list>
+
+定期回顾这些笔记，思考可以为它们加上什么 Tag。不过我现在用 Tag 作为文件夹结构的同时还有双向链接，[[得重新思考一下有时候是否可用不加Tag|有了双向链接还需要用标签作为文件夹吗]]

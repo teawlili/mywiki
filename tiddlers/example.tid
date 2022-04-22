@@ -1,0 +1,10 @@
+created: 20211204020038089
+creator: teawlili
+modified: 20211204020058129
+modifier: teawlili
+tags: Index
+title: example
+tmap.id: fe06de6d-a718-4308-b9b1-d05acf586fe5
+type: text/vnd.tiddlywiki
+
+<$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />

@@ -1,0 +1,28 @@
+created: 20211130080314398
+creator: teawlili
+modified: 20211130080353956
+modifier: teawlili
+revision: 0
+tags: Introduction
+title: Introduction/04
+tmap.id: b55ce728-39d3-423f-b9fd-8b880f6d4e4e
+type: text/vnd.tiddlywiki
+
+@@.uppercase
+!! Pretty Code
+@@
+
+<$slidecodeblock autoAnimateUnmatched="fade" language="javascript" trim lineNumbers id="code-animation" code="""
+import Component from '@glimmer/component';
+import { tracked } from '@glimmer/tracking';
+
+export default class MyComponent extends Component {
+
+  @tracked count = 0;
+
+  ...
+
+}
+""" />
+
+<small>Code syntax highlighting courtesy of [[TiddlyWiki's highlight.js plugin|https://tiddlywiki.com/plugins/tiddlywiki/highlight]].</small>

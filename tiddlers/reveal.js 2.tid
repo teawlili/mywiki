@@ -1,0 +1,17 @@
+created: 20211130072928665
+creator: teawlili
+modified: 20211130073607906
+modifier: teawlili
+revision: 0
+tags: tiddlywiki
+title: reveal.js 2
+tmap.id: cc3a3126-c749-4e79-97f1-438df6cfc013
+type: text/vnd.tiddlywiki
+
+<$presentation $height="600">
+<$slide>
+Because these presentations are embedded they must have a height. 
+By default this is 400px but can be overridden using the $height attribute
+this presentation been overriden to $height="600"
+</$slide>
+</$presentation>

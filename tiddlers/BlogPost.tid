@@ -1,0 +1,17 @@
+created: 20211204021518595
+creator: teawlili
+modified: 20211206010914311
+modifier: teawlili
+tags: Index
+title: BlogPost
+tmap.id: 73324944-a34a-4653-ae35-5c795d1ee5ff
+type: text/vnd.tiddlywiki
+
+<fieldset>
+<$button>
+		<$action-sendmessage $message="tm-new-tiddler" title="xxx" text="""<$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />""" tags="BlogPost" />
+	添加新文件夹(Tag)
+</$button>
+</fieldset>
+
+<$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />

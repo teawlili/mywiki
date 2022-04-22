@@ -1,0 +1,10 @@
+created: 20211204022214093
+creator: teawlili
+modified: 20211204022224622
+modifier: teawlili
+tags: BlogPost
+title: Atomy
+tmap.id: 589ec614-50f4-47e7-b6a2-9f128d0519fc
+type: text/vnd.tiddlywiki
+
+<$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />

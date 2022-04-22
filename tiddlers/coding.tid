@@ -1,0 +1,17 @@
+created: 20211206010455346
+creator: teawlili
+modified: 20211206012702032
+modifier: teawlili
+tags: Index
+title: coding
+tmap.id: 0268b245-2c95-458c-b0d4-1bc9983c4807
+type: text/vnd.tiddlywiki
+
+<fieldset>
+<$button>
+		<$action-sendmessage $message="tm-new-tiddler" title="xxx" text="""<$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />""" tags="coding" />
+	添加新文件夹(Tag)
+</$button>
+</fieldset>
+
+<$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />

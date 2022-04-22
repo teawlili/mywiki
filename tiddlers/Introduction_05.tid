@@ -1,0 +1,30 @@
+created: 20211130080848131
+creator: teawlili
+modified: 20211130080921937
+modifier: teawlili
+revision: 0
+tags: Introduction
+title: Introduction/05
+tmap.id: 7221cb61-26cb-4f8b-908e-88e60735fa58
+type: text/vnd.tiddlywiki
+
+@@.uppercase
+!! Even Prettier Animations
+@@
+
+<$slidecodeblock autoAnimateUnmatched="fade" language="javascript" trim lineNumbers="|2,9-12|3,7" id="code-animation" code="""
+import Component from '@glimmer/component';
+import { action } from '@ember/object';
+import { tracked } from '@glimmer/tracking';
+
+export default class MyComponent extends Component {
+
+  @tracked count = 0;
+
+  @action
+  updateCount() {
+    this.count += 1;
+  }
+
+}
+""" />

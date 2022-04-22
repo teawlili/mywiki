@@ -1,0 +1,16 @@
+created: 20211130073827855
+creator: teawlili
+modified: 20211205064038464
+modifier: teawlili
+tags: tiddlywiki
+title: reveal.js 3
+tmap.id: 685b5a90-8547-4503-987e-3b102767fbbd
+type: text/vnd.tiddlywiki
+
+<$presentation transition="slide" autoSlide="5000" loop controls progress center>
+<$list filter="[tag[Introduction]sort[title]]">
+<$slide tiddlerTitle={{!!title}} backgroundColor={{!!color}} autoAnimate={{!!animate}} autoAnimateUnmatched="fade" autoslide={{!!delay}}>
+<$transclude mode="block" />
+</$slide>
+</$list>
+</$presentation>

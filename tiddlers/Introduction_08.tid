@@ -1,0 +1,23 @@
+created: 20211130081051468
+creator: teawlili
+modified: 20211130081127086
+modifier: teawlili
+revision: 0
+tags: Introduction
+title: Introduction/08
+tmap.id: cfa6b4cd-aa7e-4a59-8ac6-4ba2469cbea0
+type: text/vnd.tiddlywiki
+
+@@.uppercase
+!! ~WikiText Compatible
+@@
+
+All content is ~WikiText compatible including advanced filtering and transclusion.
+
+<$slidecodeblock trim code="""
+<$list filter="[tag[slide]order[title]]">
+<$slide>
+<$transclude mode="block" />
+</$slide>
+</$list>
+""" />

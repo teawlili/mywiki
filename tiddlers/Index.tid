@@ -1,0 +1,13 @@
+created: 20211204012036561
+creator: teawlili
+modified: 20211206020736871
+modifier: teawlili
+title: Index
+tmap.id: 45d1da9c-d063-47d3-883d-d065f3603031
+type: text/vnd.tiddlywiki
+
+<<dbadge 笔记应用 "[[TGNote|https://github.com/tiddly-gittly/TiddlyGit-Desktop]]" info>> <<dbadge 部署 "[[Github Actions|https://github.com/tiddly-gittly/TiddlyGit-Desktop/actions]]" success>> <<dbadge 双向链接 "[[支持|https://zhuanlan.zhihu.com/p/140473235]]" "danger">>
+
+<<reuse-tiddler "快速创建新笔记按钮">>
+
+<<details label:"本知识库的介绍（来访者㐓点击查看）" src:"本知识库的介绍" labelClass:"bg-secondary text-white">>

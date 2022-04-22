@@ -1,0 +1,45 @@
+created: 20211130080152445
+creator: teawlili
+modified: 20211130080232260
+modifier: teawlili
+revision: 0
+tags: Introduction
+title: Introduction/03
+tmap.id: 55fbca31-b4fa-41ce-9b80-52ad181cd1a5
+type: text/vnd.tiddlywiki
+
+<$slide autoslide="4000">
+
+@@.uppercase
+!! Vertical Slides
+@@
+
+Slides can be nested inside of each other.
+
+Use the //Space key// to navigate through all slides.
+
+[img[Arrow.png]]
+
+</$slide>
+
+<$slide autoslide="4000">
+
+@@.uppercase
+!! Basement Level 1
+@@
+
+Nested slides are useful for adding additional detail underneath a high level horizontal slide.
+
+</$slide>
+
+<$slide autoslide="4000">
+
+@@.uppercase
+!! Basement Level 2
+@@
+
+That's it, time to go back up.
+
+[img class="upsidedown" [Arrow.png]]
+
+</$slide>

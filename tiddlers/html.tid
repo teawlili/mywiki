@@ -1,0 +1,10 @@
+created: 20220411131326426
+creator: teawlili
+modified: 20220411131444514
+modifier: teawlili
+tags: coding
+title: html
+tmap.id: 8029b670-9548-45ed-8001-765d084e676e
+type: text/vnd.tiddlywiki
+
+<$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />

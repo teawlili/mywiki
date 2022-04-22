@@ -1,0 +1,10 @@
+created: 20211204022012072
+creator: teawlili
+modified: 20211204022022549
+modifier: teawlili
+tags: BlogPost
+title: App
+tmap.id: a6d6aa78-12de-410e-8ee6-c1bf73707f43
+type: text/vnd.tiddlywiki
+
+<$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />

@@ -1,0 +1,15 @@
+created: 20211130080026152
+creator: teawlili
+modified: 20211130080117377
+modifier: teawlili
+revision: 0
+tags: Introduction
+title: Introduction/02
+tmap.id: b407f3ae-2e6c-49b5-933a-21d7d24eade9
+type: text/vnd.tiddlywiki
+
+@@.uppercase
+!! Hello There
+@@
+
+reveal.js enables you to create beautiful interactive slide decks using HTML. This presentation will show you examples of what it can do.

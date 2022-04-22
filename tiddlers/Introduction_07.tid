@@ -1,0 +1,19 @@
+created: 20211130081026166
+creator: teawlili
+modified: 20211130081042648
+modifier: teawlili
+revision: 0
+tags: Introduction
+title: Introduction/07
+tmap.id: c0fffc9a-d224-4611-b48e-b213ab2edba1
+type: text/vnd.tiddlywiki
+
+@@.uppercase
+!! Point of View
+@@
+
+Press <kbd>ESC</kbd> to enter the slide overview.
+
+Hold down the <kbd>alt</kbd> key (<kbd>ctrl</kbd> in Linux) and click on any element to zoom towards it using zoom.js. Click again to zoom back out.
+
+<small>(NOTE: Use <kbd>ctrl + click</kbd> in Linux.)</small>

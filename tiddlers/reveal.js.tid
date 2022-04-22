@@ -1,0 +1,20 @@
+created: 20211130063711086
+creator: teawlili
+modified: 20211205063919052
+modifier: teawlili
+tags: tiddlywiki
+title: reveal.js
+tmap.id: a93dce3e-055f-41b3-b4cd-c7b2d784f6ac
+type: text/vnd.tiddlywiki
+
+<$presentation>
+<$slide>Welcome to ''Reveal.js''</$slide>
+<$slide>Embedded inside TiddlyWiki</$slide>
+<$slide>
+  <$slide>Vertical Slides</$slide>
+  <$slide>Can also me manged with one level of nesting</$slide>
+</$slide>
+<$slide backgroundColor="aquamarine">
+Will make a `<section data-background-color="aquamarine">`
+</$slide>
+</$presentation>

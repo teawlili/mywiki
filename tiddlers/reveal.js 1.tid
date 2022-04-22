@@ -1,0 +1,14 @@
+created: 20211130072632322
+creator: teawlili
+modified: 20211130073452140
+modifier: teawlili
+revision: 0
+tags: tiddlywiki
+title: reveal.js 1
+tmap.id: 0519d58a-451a-466a-b8f2-03e941ea175c
+type: text/vnd.tiddlywiki
+
+<$presentation autoSlide="5000" loop>
+<$slide>Slide will automatically move in 5 seconds</$slide>
+<$slide>This is the second slide</$slide>
+</$presentation>
