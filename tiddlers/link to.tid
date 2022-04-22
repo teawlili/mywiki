@@ -1,0 +1,17 @@
+created: 20220422133822572
+creator: TidGiUser
+modified: 20220422133856652
+modifier: TidGiUser
+tags: 关于我
+title: link to
+tmap.id: 3395506f-ab48-4684-95f3-c75fc10b3fd5
+type: text/vnd.tiddlywiki
+
+<a href="#" class="badge badge-primary">Primary</a>
+<a href="#" class="badge badge-secondary">Secondary</a>
+<a href="#" class="badge badge-success">Success</a>
+<a href="#" class="badge badge-danger">Danger</a>
+<a href="#" class="badge badge-warning">Warning</a>
+<a href="#" class="badge badge-info">Info</a>
+<a href="#" class="badge badge-light">Light</a>
+<a href="#" class="badge badge-dark">Dark</a>
