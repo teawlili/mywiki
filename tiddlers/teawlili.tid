@@ -1,12 +1,26 @@
 created: 20211206021158776
 creator: teawlili
-modified: 20220422133809461
+modified: 20220422151429201
 modifier: TidGiUser
 tags: 关于我
 title: teawlili
 tmap.id: 2b849d5a-c340-42bd-afc2-2171bc2d306d
 type: text/vnd.tiddlywiki
 
-<<dbadge website "[[hexo|https://teawlili.github.io]]" info>> <<dbadge mychannel "[[telegram|https://t.me/mychannel2679]]" success>> <<dbadge media "[[wechat|https://teawlili.github.io/images/wechat_liliteaw.jpg]]" "danger">>  
+<<dbadge website "[[hexo|https://teawlili.github.io]]||[[MKdocs|https://teawlili.github.io]]" info>>   
+
+<<dbadge mychannel "[[telegram|https://t.me/mychannel2679]]" success>>   
+
+<<dbadge media "[[wechat|https://teawlili.github.io/images/wechat_liliteaw.jpg]]||[[whatsapp|https://t.me/mychannel2679]]" "danger">>  
+
+<<dbadge mychannel "[[telegram|https://t.me/mychannel2679]]" warning>>    
+
+<<dbadge mynote "[[mywiki|https://t.me/mychannel2679]]||[[logseq-notes|https://t.me/mychannel2679]]" primary>>   
+
+<<dbadge instagram "[[instagram|https://t.me/mychannel2679]]" success>>  
+
+<<dbadge mychannel "[[telegram|https://t.me/mychannel2679]]" info>>  
+
+<<dbadge mychannel "[[telegram|https://t.me/mychannel2679]]" warning>>  
 
 
