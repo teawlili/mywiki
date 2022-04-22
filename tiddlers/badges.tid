@@ -1,10 +1,10 @@
-created: 20220422133822572
+created: 20220422135835322
 creator: TidGiUser
-modified: 20220422133856652
+modified: 20220422141536929
 modifier: TidGiUser
-tags: 关于我
-title: link to
-tmap.id: 3395506f-ab48-4684-95f3-c75fc10b3fd5
+tags: coding
+title: badges
+tmap.id: 3c95eb3f-465e-4e67-ab61-0c365358e59b
 type: text/vnd.tiddlywiki
 
 <a href="#" class="badge badge-primary">Primary</a>

@@ -1,0 +1,19 @@
+created: 20220422140814349
+creator: TidGiUser
+modified: 20220422141249255
+modifier: TidGiUser
+tags: coding
+title: card
+tmap.id: 2ea7bf6e-74b8-424e-a566-701fcdf8b51b
+type: text/vnd.tiddlywiki
+
+Images
+.card-img-top places an image to the top of the card. With .card-text, text can be added to the card. Text within .card-text can also be styled with the standard HTML tags.
+
+
+<div class="card" style="width: 18rem;">
+  <img class="card-img-top" src="..." alt="Card image cap">
+  <div class="card-body">
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
