@@ -1,0 +1,17 @@
+created: 20220423145308558
+creator: TidGiUser
+modified: 20220423145512164
+modifier: TidGiUser
+tags: BlogPost
+title: docsify
+tmap.id: acd368ca-f150-49a0-bb2c-855f175a87cd
+type: text/vnd.tiddlywiki
+
+<fieldset>
+<$button>
+		<$action-sendmessage $message="tm-new-tiddler" title="xxx" text="""<$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />""" tags="BlogPost" />
+	添加新文件夹(Tag)
+</$button>
+</fieldset>
+
+<$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />

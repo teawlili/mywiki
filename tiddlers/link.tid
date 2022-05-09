@@ -1,0 +1,29 @@
+created: 20220424031611779
+creator: TidGiUser
+modified: 20220509001948415
+modifier: TidGiUser
+tags: docsify
+title: link
+tmap.id: f6689602-dfd9-4595-b352-790ba11c1946
+type: text/vnd.tiddlywiki
+
+Link To To Asset To Download
+[My Image](/my-image.png ':ignore')
+[My Image](/my-image.png ':ignore :target=_blank' )
+
+Linking To Section In Page
+[some text for link](#id-of-title)
+
+for example:
+# Primary Title
+some text here.
+
+## Secondary Title
+some text here.
+
+### Tertiary Title
+some text here.
+
+[primary](#primary-title)
+[secodary](#secondary-title)
+[tertiary](#tertiary-title)

@@ -1,0 +1,17 @@
+created: 20220509001814414
+creator: TidGiUser
+modified: 20220509001834594
+modifier: TidGiUser
+tags: BlogPost
+title: hexo
+tmap.id: d864b224-ab5c-47ea-ab4a-5ed487930d01
+type: text/vnd.tiddlywiki
+
+<fieldset>
+<$button>
+		<$action-sendmessage $message="tm-new-tiddler" title="xxx" text="""<$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />""" tags="BlogPost" />
+	添加新文件夹(Tag)
+</$button>
+</fieldset>
+
+<$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />

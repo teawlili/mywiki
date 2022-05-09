@@ -1,0 +1,17 @@
+created: 20220509001729570
+creator: TidGiUser
+modified: 20220509001836482
+modifier: TidGiUser
+tags: BlogPost
+title: vuepress
+tmap.id: c8fae24a-f910-485f-ac11-5a23f1f6f022
+type: text/vnd.tiddlywiki
+
+<fieldset>
+<$button>
+		<$action-sendmessage $message="tm-new-tiddler" title="xxx" text="""<$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />""" tags="BlogPost" />
+	添加新文件夹(Tag)
+</$button>
+</fieldset>
+
+<$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />
