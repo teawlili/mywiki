@@ -1,0 +1,9 @@
+drop down menu link to folder under docs/cookbook
+
+{
+    text: "Cookbook",  
+    icon: "guide",  
+    prefix: "/cookbook/",  
+    children: ["tutorial/", "markdown/", "vuepress/", "advanced/"],  
+  },  
+	

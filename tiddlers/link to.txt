@@ -1,0 +1,5 @@
+link to folder under docs
+ 
+ "/guide/",             
+  "/config/",
+  "/faq/",
