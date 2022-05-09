@@ -1,0 +1,31 @@
+link to docs/xxx.md and link to url 
+
+{
+    text: "Project",
+    icon: "info",
+    children: [
+      "/changelog",                       # docs/changelog.md
+      "/demo",                            # docs/demo.md
+      "/contribution",                    # docs/contribution.md
+      {
+        text: "Plugins",
+        icon: "plugin",
+        children: [
+          {
+            text: "AddThis Plugin",
+            icon: "share",
+            link: "https://vuepress-theme-hope.github.io/v2/add-this/",
+          },
+          {
+            text: "Blog Plugin",
+            icon: "blog",
+            link: "https://vuepress-theme-hope.github.io/v2/blog/",
+          },
+          {
+            text: "Comment Plugin",
+            icon: "comment",
+            link: "https://vuepress-theme-hope.github.io/v2/comment/",
+          },
+		],
+},
+		

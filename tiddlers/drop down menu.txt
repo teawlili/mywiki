@@ -1,4 +1,4 @@
-drop down menu link to folder under docs/cookbook
+drop down menu link to docs/cookbook
 
 {
     text: "Cookbook",  

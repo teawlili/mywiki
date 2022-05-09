@@ -1,5 +1,5 @@
 link to folder under docs
  
- "/guide/",             
-  "/config/",
-  "/faq/",
+ "/guide/",                # docs/guide        
+  "/config/",              # docs/config
+  "/faq/",                 # docs/faq
