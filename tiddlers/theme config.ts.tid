@@ -1,0 +1,10 @@
+created: 20220509040403656
+creator: TidGiUser
+modified: 20220509040500399
+modifier: TidGiUser
+tags: BlogPost
+title: theme config.ts
+tmap.id: 728e1e87-491f-4f79-9de9-c9f9d0264a75
+type: text/vnd.tiddlywiki
+
+<$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />
