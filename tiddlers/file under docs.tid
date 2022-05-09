@@ -1,0 +1,15 @@
+created: 20220509041320651
+creator: TidGiUser
+modified: 20220509100711642
+modifier: TidGiUser
+tags: vuepress
+title: file under docs
+tmap.id: e82a6efa-5384-4a85-b9b7-4da570bdfbae
+type: text/vnd.tiddlywiki
+
+<$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />
+
+''docs 下的.md 和 folder 是 navbar 的目录内容''
+
+
+

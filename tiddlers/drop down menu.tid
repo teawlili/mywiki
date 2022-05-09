@@ -1,0 +1,18 @@
+created: 20220509093651241
+creator: TidGiUser
+modified: 20220509100026870
+modifier: TidGiUser
+tags: navbar.ts
+title: drop down menu
+tmap.id: 00f43599-5454-4476-8030-7b895e237a74
+type: text/vnd.tiddlywiki
+
+''drop down menu link to folder under docs/cookbook''
+
+{
+    text: "Cookbook",  
+    icon: "guide",  
+    prefix: "/cookbook/",  
+    children: ["tutorial/", "markdown/", "vuepress/", "advanced/"],  
+  },  
+	
