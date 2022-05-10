@@ -1,0 +1,45 @@
+被置顶的文章：
+---
+index: 1                  # 这是侧边栏索引
+icon: page                # 这是页面的图标
+title: 页面配置            # 这是文章的标题
+author: Ms.Hope           # 设置作者
+date: 2020-01-01          # 设置写作时间
+category:
+  - 使用指南               # 一个页面可以有多个分类
+tag:
+  - 页面配置
+  - 使用指南               # 一个页面可以有多个标签
+sticky: true              # 此页面会在文章列表置顶
+star: true                # 此页面会出现在首页的文章板块中
+footer: 这是测试显示的页脚  # 你可以自定义页脚
+---
+
+该文章会出现在首页的文章板块
+---
+icon: edit
+date: 2022-01-12
+category:
+  - CategoryA
+  - CategoryB
+tag:
+  - tag A
+  - tag B
+star: true
+---
+
+该文章不会出现在首页的文章板块
+---
+icon: edit
+date: 2022-01-04
+category:
+  - CategoryA
+  - CategoryB
+tag:
+  - tag A
+  - tag B
+---
+
+`more` 注释之前的内容被视为文章摘要。
+
+<!-- more -->
